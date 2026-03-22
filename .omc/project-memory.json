@@ -1,0 +1,225 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1774191245541,
+  "projectRoot": "/Users/sirdeath/IdeaProjects/.aq-worktrees/64-ai-quartermaster",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Gemfile"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "rollup",
+        "version": "3.29.4",
+        "category": "build"
+      }
+    ],
+    "packageManager": "bundler",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "npm run build",
+    "testCommand": "npm test",
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {
+      "prebuild": "npx rimraf assets/js/dist",
+      "build": "NODE_ENV=production npx rollup -c --bundleConfigAsCjs",
+      "prewatch": "npx rimraf assets/js/dist",
+      "watch": "npx rollup -c --bundleConfigAsCjs -w",
+      "test": "npx stylelint _sass/**/*.scss",
+      "fixlint": "npm run test -- --fix"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "assets",
+      "docs"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "_data": {
+      "path": "_data",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1774191245519,
+      "keyFiles": [
+        "authors.yml",
+        "contact.yml",
+        "share.yml"
+      ]
+    },
+    "_includes": {
+      "path": "_includes",
+      "purpose": null,
+      "fileCount": 29,
+      "lastAccessed": 1774191245519,
+      "keyFiles": [
+        "comments.html",
+        "datetime.html",
+        "favicons.html",
+        "footer.html",
+        "google-analytics.html"
+      ]
+    },
+    "_javascript": {
+      "path": "_javascript",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1774191245522,
+      "keyFiles": [
+        "_copyright",
+        "categories.js",
+        "commons.js",
+        "home.js",
+        "misc.js"
+      ]
+    },
+    "_layouts": {
+      "path": "_layouts",
+      "purpose": null,
+      "fileCount": 10,
+      "lastAccessed": 1774191245522,
+      "keyFiles": [
+        "archives.html",
+        "categories.html",
+        "category.html",
+        "compress.html",
+        "default.html"
+      ]
+    },
+    "_plugins": {
+      "path": "_plugins",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1774191245522,
+      "keyFiles": [
+        "posts-lastmod-hook.rb"
+      ]
+    },
+    "_posts": {
+      "path": "_posts",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1774191245522,
+      "keyFiles": []
+    },
+    "_sass": {
+      "path": "_sass",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1774191245522,
+      "keyFiles": [
+        "main.scss",
+        "variables-hook.scss"
+      ]
+    },
+    "_tabs": {
+      "path": "_tabs",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1774191245522,
+      "keyFiles": [
+        "about.md",
+        "archives.md",
+        "categories.md",
+        "tags.md"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 3,
+      "lastAccessed": 1774191245523,
+      "keyFiles": [
+        "404.html",
+        "feed.xml",
+        "robots.txt"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 4,
+      "lastAccessed": 1774191245523,
+      "keyFiles": [
+        "CHANGELOG.md",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "SECURITY.md"
+      ]
+    },
+    "tools": {
+      "path": "tools",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1774191245523,
+      "keyFiles": [
+        "init",
+        "release",
+        "run",
+        "test"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "_posts/Blog/2023-10-26-github-pages.md",
+      "accessCount": 2,
+      "lastAccessed": 1774191328198,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1774191309804,
+      "type": "file"
+    },
+    {
+      "path": "_config.yml",
+      "accessCount": 1,
+      "lastAccessed": 1774191319010,
+      "type": "file"
+    },
+    {
+      "path": "_posts/2026-03-22-ai-quartermaster.md",
+      "accessCount": 1,
+      "lastAccessed": 1774191413776,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 1,
+      "lastAccessed": 1774191463361,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
