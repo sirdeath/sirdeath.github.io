@@ -6,7 +6,7 @@ tagline: Better late than Never
 description: Developer
 url: 'https://sirdeath.github.io'
 github:
-  username: sirdeath  mdd
+  username: sirdeath
 social:
   name: sirdeath
   email: sirdeathpk@gmail.com
@@ -24,7 +24,7 @@ comments:
   disqus:
     shortname: null
   utterances:
-    repo: null md
+    repo: null
     issue_term: null
   giscus:
     repo: null
