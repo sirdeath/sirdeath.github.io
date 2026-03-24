@@ -33,6 +33,19 @@ tools/
 rollup.config.js
 package.json
 
+# AI Tools
+.claude/
+CLAUDE.md
+AGENTS.md
+.codex/
+codex.md
+.gemini/
+gemini.md
+.cursor/
+.windsurf/
+.copilot/
+.aider*
+
 # OMC
 .omc/
 
