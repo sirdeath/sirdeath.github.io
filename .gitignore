@@ -18,5 +18,24 @@ package-lock.json
 .idea
 .vscode
 
+# Theme development files
+.nojekyll
+.browserslistrc
+.commitlintrc.json
+.editorconfig
+.prettierrc
+.stylelintrc.json
+.versionrc.json
+.husky/
+.gitmodules
+docs/
+tools/
+rollup.config.js
+package.json
+jekyll-theme-chirpy.gemspec
+
+# OMC
+.omc/
+
 # Misc
 demopost

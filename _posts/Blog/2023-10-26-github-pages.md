@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages 를 이용하여 블로그 만들어 보자
 author: sirdeath
-date: 2023-10-26 오후 10:40
+date: 2023-10-26 22:40:00 +0900
 categories: [Blog]
 tags: [Blog, Git Page, Git, markdown]
 math: true
