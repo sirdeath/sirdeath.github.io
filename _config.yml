@@ -42,6 +42,7 @@ assets:
 pwa:
   enabled: true
 paginate: 10
+future: true
 baseurl: ''
 kramdown:
   syntax_highlighter: rouge

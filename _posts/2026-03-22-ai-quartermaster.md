@@ -1,7 +1,7 @@
 ---
 title: AI Quartermaster - AI 기반 개발 워크플로우 자동화 도구
 author: sirdeath
-date: 2026-03-22 23:55
+date: 2026-03-22 23:55:00 +0900
 categories: [Development, AI]
 tags: [AI, Automation, Workflow, Development, Productivity, Claude]
 math: false
