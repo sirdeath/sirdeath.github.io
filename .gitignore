@@ -32,7 +32,6 @@ docs/
 tools/
 rollup.config.js
 package.json
-jekyll-theme-chirpy.gemspec
 
 # OMC
 .omc/
