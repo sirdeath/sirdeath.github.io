@@ -2,8 +2,8 @@
 title: AI 코딩 하네스 구축 가이드 - 2026년 자동화 워크플로우 완전 정복
 author: sirdeath
 date: 2026-03-25 23:59:00 +0900
-categories: [Development, AI, Workflow]
-tags: [AI, Coding, Harness, Automation, Workflow, Claude, Cursor, Copilot, DevOps, 2026]
+categories: [Development, AI]
+tags: [AI, Coding, Harness, Automation, Workflow, Claude, Cursor, Copilot, DevOps, "2026"]
 math: false
 mermaid: true
 ---

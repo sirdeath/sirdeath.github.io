@@ -2,7 +2,7 @@
 title: Claude Code vs Codex - AI 코딩 에이전트 방법론 비교와 선택 가이드
 author: sirdeath
 date: 2026-03-25 00:00:00 +0900
-categories: [Development, AI, Comparison]
+categories: [Development, AI]
 tags: [Claude-Code, OpenAI-Codex, AI-Agents, Development-Tools, Methodology, Comparison, Best-Practices, Workflow]
 math: false
 mermaid: true

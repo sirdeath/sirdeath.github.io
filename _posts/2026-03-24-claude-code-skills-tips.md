@@ -2,7 +2,7 @@
 title: Claude Code 스킬 작성 팁 - 실전에서 바로 쓰는 베스트 프랙티스
 author: sirdeath
 date: 2026-03-24 23:59:00 +0900
-categories: [Development, AI, Tips]
+categories: [Development, AI]
 tags: [Claude, AI, Skills, Tips, Best-Practices, Workflow, Automation, Productivity]
 math: false
 mermaid: true

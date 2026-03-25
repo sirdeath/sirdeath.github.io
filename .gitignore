@@ -49,5 +49,9 @@ gemini.md
 # OMC
 .omc/
 
+# AQ work artifacts
+analysis/
+research/
+
 # Misc
 demopost
