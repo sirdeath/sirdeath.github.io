@@ -2,8 +2,8 @@
 title: AI 병렬 작업 구축 가이드 - 여러 AI를 동시에 운용하여 생산성 극대화하기
 author: sirdeath
 date: 2026-03-25 23:58:00 +0900
-categories: [Development, AI, Workflow]
-tags: [AI, Parallel-Workers, Multi-Agent, Orchestration, Productivity, Automation, Claude-Code, Workflow, 2026]
+categories: [Development, AI]
+tags: [AI, Parallel-Workers, Multi-Agent, Orchestration, Productivity, Automation, Claude-Code, Workflow, "2026"]
 math: false
 mermaid: true
 ---
