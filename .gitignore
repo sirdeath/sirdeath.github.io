@@ -18,20 +18,9 @@ package-lock.json
 .idea
 .vscode
 
-# Theme development files
-.nojekyll
-.browserslistrc
-.commitlintrc.json
-.editorconfig
-.prettierrc
-.stylelintrc.json
-.versionrc.json
-.husky/
-.gitmodules
-docs/
-tools/
-rollup.config.js
-package.json
+# Chirpy starter housekeeping (theme files come from gem)
+_sass/vendors
+assets/js/dist
 
 # AI Tools
 .claude/
